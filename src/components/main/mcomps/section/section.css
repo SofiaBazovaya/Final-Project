@@ -1,0 +1,10 @@
+.section {
+    width: 19vw;
+    grid-area: section;
+    background-image: url("../../../../media/img/Mech1(1).jpg");
+    background-size: contain;
+    filter: blur(1px);
+    background-position-y: top;
+    background-repeat: repeat-y;
+    background-clip: padding-box;
+}

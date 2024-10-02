@@ -1,0 +1,71 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 58vw;
+}
+
+/* Ссылки */
+ a:link {
+    text-decoration: none;
+    color: orange;
+    font-weight: 700;
+    font-size: 1.1em;
+}
+ a:visited {
+    text-decoration: none;
+    color: orange;
+}
+ a:hover {
+    color: white;
+}
+
+/* Кнопка выпадающего списка */
+.dropbtn {
+    background-color: black;
+    color: orange;
+    padding: 2vh;
+    font-size:  1.1em;
+    font-weight: 700;
+    border: none;
+    max-height: 8vh;
+    text-align: center;
+}
+
+/* Контейнер <div> - необходим для размещения выпадающего содержимого */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Выпадающее содержимое */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 300px;
+    box-shadow: 6px 6px 6px 1px #fc6c00;
+    z-index: 1;
+}
+
+/* Ссылки внутри выпадающего списка */
+.dropdown-content a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 0.9em;
+}
+
+/* Изменение цвета выпадающих ссылок при наведении курсора */
+.dropdown-content a:hover {background-color: #900000;}
+
+/* Показать выпадающее меню при наведении курсора */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Изменение цвета фона кнопки раскрывающегося списка при отображении содержимого раскрывающегося списка */
+.dropdown:hover .dropbtn {
+    background-color: #323232;}

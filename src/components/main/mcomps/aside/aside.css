@@ -1,0 +1,10 @@
+.aside{
+    width: 19vw;
+    grid-area: aside;
+    background-image: url("../../../../media/img/Mech2(1).jpg");
+    background-size: contain;
+    filter: blur(1px);
+    background-position-y: top;
+    background-repeat: repeat-y;
+    background-clip:  padding-box;
+}

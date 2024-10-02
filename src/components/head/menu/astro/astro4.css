@@ -1,0 +1,36 @@
+#h2-astro4{
+    text-align: center;
+    color: #03fc62;
+    text-shadow: 2px 2px 3px black;
+}
+.astro4{
+    padding: 2vw;
+}
+#astroPic3{
+    height: 50vh;
+    width: 24vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img20{
+    color: #9ef7c0;
+    text-align:center;
+}
+#astroPic4{
+    height: 46vh;
+    width: 42vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#astroPic5{
+    height: 50vh;
+    width: 20vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

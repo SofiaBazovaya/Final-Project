@@ -1,0 +1,37 @@
+#h2-optica4{
+    text-align: center;
+    color:#fce253;
+    text-shadow: 2px 2px 3px black;
+}
+.optica4{
+    padding: 2vw;
+}
+
+.p1{
+    line-height:120%;
+    font-size: 1em;
+    text-align:justify;
+    color: white;
+    text-indent: 20px;
+}
+#opticaPic15 {
+    height: 26vh;
+    width: 30vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#opticaPic16 {
+    height: 56vh;
+    width: 24vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img15{
+    color: #fceb8d;
+    text-align:center;
+}

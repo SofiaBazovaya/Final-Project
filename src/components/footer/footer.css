@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    height: 5em;
+    bottom: 0;
+    background-color: black;
+    padding-left: 2vw;
+    padding-top: 10px;
+}
+#p-footer{
+    text-align:justify;
+    color: #b2b2b2;
+    font-size: 1em;
+    line-height:130%;
+    letter-spacing:1px;
+}

@@ -1,0 +1,16 @@
+
+.p404 h1{
+    color: snow;
+    text-align:center;
+    text-shadow: 2px 2px 3px black;
+}
+.p404 h2{
+    color: snow;
+    text-align:center;
+    text-shadow: 2px 2px 3px black;
+}
+#p404V{
+    height: 100%;
+    width: 100%;
+    display: block;
+}

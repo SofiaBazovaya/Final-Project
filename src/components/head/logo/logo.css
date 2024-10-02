@@ -1,0 +1,13 @@
+#head-logo{
+    height: 85%;
+    width: 60%;
+
+}
+.logo{
+    width: 20vw;
+    height: 8vh;
+    justify-items: center;
+    text-align:center;
+    align-content: center;
+    background-color: black;
+}

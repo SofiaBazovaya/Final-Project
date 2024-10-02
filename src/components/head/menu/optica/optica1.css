@@ -1,0 +1,28 @@
+#h2-optica1{
+    text-align: center;
+    color: #FA3E54;
+    text-shadow: 2px 2px 3px black;
+}
+.optica1{
+    padding: 2vw;
+}
+
+.p1{
+    line-height:120%;
+    font-size: 1em;
+    text-align:justify;
+    color: white;
+    text-indent: 20px;
+}
+#opticaPic8 {
+    height: 23vh;
+    width: 10vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img8{
+    color: #f78895;
+    text-align:center;
+}

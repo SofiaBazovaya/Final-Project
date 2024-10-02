@@ -1,0 +1,44 @@
+#h2-astro1{
+    text-align: center;
+    color: #e1fa02;
+    text-shadow: 2px 2px 3px black;
+}
+.astro1{
+    padding: 2vw;
+}
+#imgAstro1{
+    height: 50vh;
+    width: 40vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img17{
+    color: #effa89;
+    text-align:center;
+}
+#moon{
+    height : 125px;
+    width: 235px;
+    justify-items: center;
+    text-align:center;
+    align-content: center;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.astro1 a:link {
+    text-decoration: none;
+    color: white;
+}
+.astro1  a:visited {
+    text-decoration: none;
+    color: white;
+}
+.astro1  a:hover {
+    color:#e4fa20;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,8 @@
+.index{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+

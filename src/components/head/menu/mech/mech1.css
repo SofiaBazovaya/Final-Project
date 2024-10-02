@@ -1,0 +1,53 @@
+.mech1{
+    padding: 2vw;
+
+}
+#h2-mech1{
+    text-align: center;
+    color: cyan;
+    text-shadow: 2px 2px 3px black;
+}
+.p1{
+    line-height:120%;
+    font-size: 1em;
+    text-align:justify;
+    color: white;
+    text-indent: 20px;
+}
+.imgMech{
+    height: 39vh;
+    width: 20vw;
+    border-radius: 8px;
+    margin: 1vh 1vw 1vh 4vw;
+}
+#mechPic1{
+    height: 39vh;
+    width: 15vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#mechPic4{
+    height: 20vh;
+    width: 10vw;
+    border-radius: 8px;
+    vertical-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.p-img1{
+    color: #A7F2F3;
+    text-align:center;
+}
+#p-img2{
+    color: #A7F2F3;
+    text-align:left;
+    margin: 1vh 30vw 1vh 1vw;
+}
+#p-img3{
+    color: #A7F2F3;
+    text-align:right;
+    margin: 1vh 10vw 1vh 1vw;
+}

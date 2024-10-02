@@ -1,0 +1,9 @@
+#h2-books{
+    color: #ff99b0;
+    text-align: center;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 3px black;
+}
+.books{
+    padding: 2vw;
+}

@@ -1,0 +1,41 @@
+.astro5{
+    padding: 2vw;
+}
+#h2-astro5{
+    text-align: center;
+    color: #00fca4;
+    text-shadow: 2px 2px 3px black;
+}
+#astroPic6{
+    height: 42vh;
+    width: 55vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#astroPic7{
+    height: 20vw;
+    width: 20vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img23{
+    color: #9ef7c0;
+    text-align:center;
+}
+.astro5 a:link {
+    text-decoration: none;
+    color: white;
+}
+.astro5  a:visited {
+    text-decoration: none;
+    color: white;
+}
+.astro5  a:hover {
+    color:#00fca4;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,23 @@
+#h2-astro2{
+    text-align: center;
+    color:#c0ff03;
+    text-shadow: 2px 2px 3px black;
+}
+.astro2{
+    padding: 2vw;
+}
+#star{
+    height : 251px;
+    width: 435px;
+    justify-items: center;
+    text-align:center;
+    align-content: center;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#p-img18{
+    color:#d7f08d;
+    text-align:center;
+}

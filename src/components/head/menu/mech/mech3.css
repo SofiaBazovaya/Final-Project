@@ -1,0 +1,28 @@
+#h2-mech3{
+    text-align: center;
+    color: #909efc;
+    text-shadow: 2px 2px 3px black;
+}
+.mech3{
+    padding: 2vw;
+}
+
+.p1{
+    line-height:120%;
+    font-size: 1em;
+    text-align:justify;
+    color: white;
+    text-indent: 20px;
+}
+#mechPic6{
+    height: 39vh;
+    width: 28vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img6{
+    color: #bbc4fa;
+    text-align:center;
+}

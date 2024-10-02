@@ -1,0 +1,65 @@
+#h2-optica3{
+    text-align: center;
+    color: #FFC740;
+    text-shadow: 2px 2px 3px black;
+}
+.optica3{
+    padding: 2vw;
+}
+
+.p1{
+    line-height:120%;
+    font-size: 1em;
+    text-align:justify;
+    color: white;
+    text-indent: 20px;
+}
+#opticaPic10 {
+    height: 40vh;
+    width: 30vw;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#opticaPic11 {
+    height: 30vh;
+    width: 24vw;
+    border-radius: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#opticaPic12 {
+    height: 42vh;
+    width: 32vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#opticaPic13 {
+    height: 32vh;
+    width: 26vw;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p-img10{
+    color: #f5d587;
+    text-align:center;
+}
+.optica3 a:link {
+    text-decoration: none;
+    color: white;
+}
+.optica3 a:visited {
+    text-decoration: none;
+    color: white;
+}
+.optica3 a:hover {
+    color:  gold;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 1px;
+}
